@@ -12,3 +12,9 @@
 8. **Active Community Support**: Extensive resources for troubleshooting and development.  
 9. **Low Power Consumption**: Suitable for battery-powered IoT applications.  
 10. **High Performance**: Supports 802.11 b/g/n standards with reliable data transmission.  
+
+# Image:
+![image](https://github.com/user-attachments/assets/11cb1cd0-c769-4fe5-89a3-29b3388db6bd)
+
+### **Important Note**
+Ensure all connections to the sensor are correct, as it lacks reverse polarity protection.
