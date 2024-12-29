@@ -1,4 +1,4 @@
-from esp-01 import ESP01
+from ESP-01 import ESP01
 
 def main():
     # Initialize the ESP-01 driver
